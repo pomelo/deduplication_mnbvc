@@ -1,3 +1,8 @@
+-i https://pypi.org/simple
+attrs==22.2.0 ; python_version >= '3.6'
 charset-mnbvc==0.0.2
 jsonlines==3.1.0
+numpy==1.24.2 ; python_version >= '3.8'
+picologging==0.9.1
+simhash==2.1.2
 tqdm==4.64.1
